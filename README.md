@@ -1,2 +1,2 @@
 # DSnP
-DSnP in NTUEE, 2019 Fall 
+Data Structure and Programming coursework in National Taiwan University Electrical Engineering department, 2019 Fall 
